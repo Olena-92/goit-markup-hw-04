@@ -280,6 +280,9 @@ ul {
 .list-company {
   display: flex;
   gap: 24px;
+  
+}
+.title-section{
   font-size: 36px;
   line-height: 1.1 ;
   color: #2e2f42;
@@ -296,7 +299,7 @@ ul {
   border: 1px solid #8e8f99;
   border-radius: 4px;
   height: 100%;
-  color: #afb1b8;
+  color: #8e8f99;
 }
 .link-company:hover,
 .link-company:focus {
