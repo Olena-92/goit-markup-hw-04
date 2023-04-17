@@ -293,10 +293,11 @@ margin-right: auto;
     border: 1px solid #8E8F99;
     border-radius: 4px;  
     height:100%;
+   
   }
 .link-company:hover,
 .link-company:focus{
-  border-color: #8E8F99;
+border-color: #8E8F99;
 color: #8E8F99;
 
 }
