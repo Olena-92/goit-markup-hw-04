@@ -284,27 +284,37 @@ margin-right: auto;
   }
 
   /*======Section5======*/
+  .section-company{
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+  .list-company{
+    display: flex;
+    gap: 24px;
+  }
+  .company-item{
+    width: calc((100% - 120px) / 6);
+    height: 88px;
+  }
   .link-company{
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: center;
-    gap: 24px;
     border: 1px solid #8E8F99;
     border-radius: 4px;  
     height:100%;
-   
+    color: #afb1b8;
   }
 .link-company:hover,
 .link-company:focus{
-border-color: #8E8F99;
-color: #8E8F99;
+border-color:#404bbf;
+color: #404bbf;
 
 }
 .company-icon{
   fill: currentColor;
 }
-  
+
   
 
 
