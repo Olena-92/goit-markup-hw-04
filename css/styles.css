@@ -284,7 +284,19 @@ margin-right: auto;
   }
 
   /*======Section5======*/
-  .company-section{
+  .title-company-section{
+ width: 183px;
+height: 40px;
+left: 629px;
+top: 2568px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+  }
+
+
+  .list-company{
     display: flex;
     flex-direction: row;
     padding: 0px;
