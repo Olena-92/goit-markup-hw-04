@@ -296,18 +296,16 @@ color: #2E2F42;
   }
 
 
-  .list-company{
-    display: flex;
-    flex-direction: row;
+  
+  .company-item{
+    width: 168px;
+   height: 88px;
+   display: flex;
     padding: 0px;
     gap: 24px;
 
   }
-  .company-item{
-    width: 168px;
-   height: 88px;
-  }
-  .linc-company{
+  .link-company{
     background: #E5E5E5;
   }
 
