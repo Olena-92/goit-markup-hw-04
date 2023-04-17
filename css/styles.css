@@ -281,7 +281,29 @@ margin-right: auto;
   line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
-}
+  }
+
+  /*======Section5======*/
+  .company-section{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    gap: 24px;
+
+  }
+  .company-item{
+    width: 168px;
+   height: 88px;
+  }
+  .linc-company{
+    background: #E5E5E5;
+  }
+
+
+
+
+
+
 /*======footer======*/
 .footer {
   background-color: #2E2F42;
