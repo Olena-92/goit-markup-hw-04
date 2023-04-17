@@ -293,6 +293,7 @@ ul {
   line-height: 1.1 ;
   color: #2e2f42;
   margin-bottom: 72px; 
+  text-align: center;
 }
 .company-item {
   width: calc((100% - 120px) / 6);
