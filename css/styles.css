@@ -141,7 +141,7 @@ ul {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(./images/people-office1.jpg);
+    url(styles.css/people-office1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
