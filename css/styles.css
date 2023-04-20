@@ -141,7 +141,7 @@ ul {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(styles.css/people-office1.jpg);
+    url(./images/people-office1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -476,14 +476,15 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
-  height: 40px;
-  background-color: #4d5ae5;
-  border-radius: 50%;
+  color: #afb1b8;
+  height:100% ;
+  border: 1px solid #8e8f99; 
+  border-radius: 4px;
 }
 .link-icon:hover,
 .link-icon:focus {
   background-color: #404bbf;
+  color: #404bbf;
 }
 .team-icon {
   fill: #f4f4fd;
