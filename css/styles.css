@@ -240,8 +240,6 @@ ul {
   gap: 24px;
   display: flex;
   list-style-type: none;
-
-
 }
 
 .team-section {
@@ -260,7 +258,6 @@ ul {
 
 .img-team-list {
   width: calc((100% - 72px) / 4);
- 
 }
 
 .tim-div {
@@ -492,9 +489,7 @@ img {
 .link-icon:hover,
 .link-icon:focus {
   background-color: #404bbf;
-  
 }
-
 
 .team-icon {
   fill: #f4f4fd;
@@ -515,7 +510,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
-  
 }
 .social-list {
   display: flex;
