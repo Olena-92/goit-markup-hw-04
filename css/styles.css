@@ -388,7 +388,7 @@ ul {
 
 .portfolio-link {
   display: block;
-  text-decoration
+  text-decoration: none;
 }
 
 .project-title {
