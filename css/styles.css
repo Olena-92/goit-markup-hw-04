@@ -239,6 +239,9 @@ ul {
 .team-list {
   gap: 24px;
   display: flex;
+  list-style-type: none;
+
+
 }
 
 .team-section {
@@ -257,6 +260,7 @@ ul {
 
 .img-team-list {
   width: calc((100% - 72px) / 4);
+ 
 }
 
 .tim-div {
@@ -371,6 +375,9 @@ ul {
   text-align: center;
   letter-spacing: 0.04em;
   color: #4d5ae5;
+  cursor: pointer;
+  color: #4d5ae5;
+  background: #f4f4fd;
 }
 
 .filter-buttons:hover,
@@ -485,8 +492,10 @@ img {
 .link-icon:hover,
 .link-icon:focus {
   background-color: #404bbf;
- 
+  
 }
+
+
 .team-icon {
   fill: #f4f4fd;
 }
